@@ -1,4 +1,4 @@
-module gomqttbrut
+module github.com/bitthr3at/gomqttbrut
 
 go 1.22.2
 
