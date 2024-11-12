@@ -1,4 +1,4 @@
-module github.com/bitthr3at/gomqttbrut
+module github.com/bitthr3at/gomqttbrut latest
 
 go 1.22.2
 
